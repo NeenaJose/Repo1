@@ -1,0 +1,90 @@
+Github And Eclipse
+--------------------
+Things to do in Github
+--------------------
+Create account
+Create repository
+--------------------
+to create repository follow these steps
+
+1. click on "new" button
+2. provide repository name
+3. enable the "public" radio button
+4. enable "readmefile"
+
+To find the repo url
+---------------------
+1. select the repository
+2. click on green color "code" button
+https://github.com/NeenaJose/Repo1.git
+
+To generate token
+--------------------
+1. click on dashboard
+2. click on settings(click the icon seen in the top left)
+3. click on "developer settings"
+4. click on "personal access token"
+5. click on "token classic"
+6. click on "generate new token"
+7. set expiration(30 days)
+8. enable all checkboxes
+9.click on "generate token"
+10. copy it and save for later
+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
+-------------------------------------------------------------------------------------------------
+
+Thing to do in Eclipse
+------------------------
+1. Clone
+----------
+* Click on "windows"
+* Click on "show view"
+* Click on "other"
+* Click on "git"
+* Click on "git repositories"(after this a new window will arrive)
+* Click on the icon with a green arrow
+* Click on "clone url"
+* paste the repository url
+* next->next->finish
+
+2. Share
+----------
+* Right click on the maven project 
+* Click on "Team"
+* Click on "share project"
+* Choose repo from the dropdown 
+* finish
+
+3. Staging
+--------------
+* Click on "windows"
+* Click on "show view"
+* Click on "other"
+* Click on "git"
+* Click on "git staging"
+* drag and drop the pom file and all necessary java files from unstaged to staged
+* type a commit message
+* click on "push and commit"
+* appear an authentication window(username-->name after .com/, password-->copy the token and paste it)
+* go back to github and refersh it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
